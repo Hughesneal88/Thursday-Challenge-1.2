@@ -1,5 +1,6 @@
 def solution():
     n= input("Enter a number: ")
+    n = n.strip(" ")
 
     if n == n[::-1]:
         print(True)
