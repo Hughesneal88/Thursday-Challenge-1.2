@@ -26,7 +26,7 @@ print(is_palindrome("racecar"))  # True
 print(is_palindrome("hello"))  # False
 
 - Works with strings, numbers, symbols
-- Case-insensitive
+- Not Case-insensitive
 - Ignores whitespace
 
 ## Explanation
